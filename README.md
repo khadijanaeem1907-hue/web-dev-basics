@@ -1,8 +1,9 @@
-# HTML Blog Project
+# web dev basics
 
-This is a beginner HTML-only project created to learn:
+This is a beginner project created to learn:
 - Semantic HTML
 - Blog structure
 - Forms
+- css
+- styling
 
-None to little CSS used.
